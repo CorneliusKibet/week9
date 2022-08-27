@@ -37,7 +37,7 @@ request.onload = function () {
   // Create a sidebar
   const sidebar = document.getElementById('neighborhoods');
   const h3 = document.createElement("h3");
-  h3.innerHTML = "Neighborhood Count";
+  h3.innerHTML = "Marked Locations within:";
   sidebar.appendChild(h3);
 
   // Print all neighborhoods in sidebar
