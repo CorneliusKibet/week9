@@ -3,7 +3,7 @@ const myMap = L.map('map');
 
 // Define icon
 const coffeeCup = L.icon({
-  iconUrl: 'https://taniarascia.github.io/coffee/images/coffee.png',
+  iconUrl: 'https://corneliuskibet.github.io/week9/images/marker-icon.png',
   shadowUrl: '',
   iconSize: [35, 65]
 });
