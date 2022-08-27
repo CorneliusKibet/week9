@@ -1,0 +1,30 @@
+{
+  "cafes": [{
+      "name": "El Meson",
+      "lat": 42.002439,
+      "long": -87.672339,
+      "neighborhood": "Rogers Park",
+      "ambiance": "4/5",
+      "flavor": "5/5",
+      "comments": "Best cappuccino and croissant I've ever had."
+    },
+    {
+      "name": "Wormhole",
+      "lat": 41.908415,
+      "long": -87.674605,
+      "neighborhood": "Wicker Park",
+      "ambiance": "5/5",
+      "flavor": "4/5",
+      "comments": "Cute ambiance with a Nintendo that actually works properly and the best games (including FF1!)."
+    },
+    {
+      "name": "Ipsento",
+      "lat": 41.918639,
+      "long": -87.687247,
+      "neighborhood": "Wicker Park",
+      "ambiance": "4/5",
+      "flavor": "5/5",
+      "comments": "Really great spicy latte. Nice ambiance."
+    }
+  ]
+}
