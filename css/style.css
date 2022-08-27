@@ -25,7 +25,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background: radial-gradient(farthest-corner at 45px 45px, #FEF0CD 0%, #F6DAAA 100%);
+    background: radial-gradient(farthest-corner at 45px 45px, #FEF0CD 0%, #teal 100%);
     border-bottom-left-radius: 8px;
     z-index: 99999;
   }
