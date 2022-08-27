@@ -64,7 +64,6 @@
     },
         {
       "name": "Ipsento",
-Lat: 
       "lat": -1.1013115719664264,
       "long": 37.064437866210945,
       "neighborhood": "Juja",
@@ -73,8 +72,7 @@ Lat:
       "comments": "Really great spicy latte. Nice ambiance but a bit small."
     },
     {
-      "name": "Wormhole",
-Lat: 
+      "name": "Wormhole", 
       "lat": -1.0539414130094868,
       "long": 36.84402465820313,
       "neighborhood": "Gatundu",
@@ -85,7 +83,6 @@ Lat:
 
     {
       "name": "Kopi Travelers Cafe",
-Lat: 
       "lat": -0.9859742824625283,
       "long": 36.88247680664063,
       "neighborhood": "Gatundu",
@@ -95,7 +92,6 @@ Lat:
     },
     {
       "name": "La Colombe", 
-Lat: 
       "lat": -0.9976455072263136,
       "long": 36.962814331054695,
       "neighborhood": "Gatundu",
