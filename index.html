@@ -1,39 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.js"></script>
-	<script src="map.json"></script>
-	<script src="script.js"></script>
-	<title>week9</title>
-	<style>
-	#map {
-		height: 100vh;
-		width: 100%;
-		}
-	</style>
+  <title>Cafétography</title>
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="images/emoji.png">
+  <link href="https://fonts.googleapis.com/css?family=Patrick+Hand+SC" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet">
+  <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"></script>
+
 </head>
+
 <body>
-	<div id="map"></div>
-	<script>
-		// Set the map variable
-		const myMap = L.map('map');
 
-		// Load the basemap
-		const myBasemap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
- 		 maxZoom: 19,
-  		attribution: '© <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-		});
+  <div class="title">
+    <h1>Caf&eacute;tography</h1>
+    <div id="neighborhoods"></div>
+  </div>
 
-		// Add basemap to map id
-		myBasemap.addTo(myMap);
+  <div id="map"></div>
 
-		// Set view of the map
-		myMap.setView([41.939948, -87.650673], 12);
-		
-	</script>
-
+  <script src="js/scripts.js"></script>
 </body>
+
 </html>
