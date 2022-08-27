@@ -1,98 +1,104 @@
 {
   "cafes": [{
       "name": "El Meson",
-      "lat": -1.0953,
-      "long": 37.0150,
-      "neighborhood": "Rogers Park",
+      "lat": -1.1500539927607416,
+      "long": 36.96144104003907,
+      "neighborhood": "Ruiru",
       "ambiance": "4/5",
       "flavor": "5/5",
       "comments": "Best cappuccino and croissant I've ever had. Place is rather small, so working there when it's empty is awkward."
-    }, {
+    }, 
+     {
+      "name": "Oromo Cafe",
+      "lat": -1.1665301175284903,
+      "long": 36.99131011962891,
+      "neighborhood": "Ruiru",
+      "ambiance": "4/5",
+      "flavor": "3/5",
+      "comments": "Nice little coffee shop in the heart of Lincoln Square. Not much food here."
+    },
+    {
       "name": "Satellite Cafe",
-      "lat": -1.0956,
-      "long": 37.0138,
-      "neighborhood": "Uptown",
+      "lat": -1.0532548835917432,
+      "long": 37.04898834228516,
+      "neighborhood": "Thika",
       "ambiance": "1/5",
       "flavor": "1/5",
       "comments": "Tiny, small menu, mediocre coffee. Sister location Maiden Voyage is good."
     },
     {
       "name": "Everybody's Coffee",
-      "lat": -1.0953,
-      "long": 37.0150,
-      "neighborhood": "Uptown",
+      "lat": -1.0415838604315129,
+      "long": 37.11250305175782,
+      "neighborhood": "Thika",
       "ambiance": "4/5",
       "flavor": "3/5",
       "comments": "Good place to get work done. Busy enough and big enough. Coffee is fine."
     },
-    {
-      "name": "Metropolis Cafe",
-      "lat": -1.0945,
-      "long": 37.0147,
-      "neighborhood": "Edgewater",
-      "ambiance": "3/5",
-      "flavor": "2/5",
-      "comments": "Metropolis brand coffee is the pride of Chicago, apparently. I hate it. This place takes Wi-Fi away after like an hour, as well. So in addition to not having enjoyable coffee, it's not a good place to work. The ambiance is otherwise nice, but it's always overly crowded. Mexican hot cocoa is good."
-    },
-    {
-      "name": "Wormhole",
-      "lat": -1.0963,
-      "long": 37.0152,
-      "neighborhood": "Wicker Park",
-      "ambiance": "5/5",
-      "flavor": "4/5",
-      "comments": "Cute ambiance with a Nintendo that actually works properly and the best games (including FF1!). I don't actually remember what the coffee tastes like."
-    },
-    {
-      "name": "Ipsento",
-      "lat": -1.0964,
-      "long": 37.0144,
-      "neighborhood": "Bucktown",
-      "ambiance": "4/5",
-      "flavor": "5/5",
-      "comments": "Really great spicy latte. Nice ambiance but a bit small."
-    },
-    {
+        {
       "name": "Two Hearted Queen",
-      "lat": -1.0965,
-      "long": 37.0129,
-      "neighborhood": "Uptown",
+      "lat": -1.0110330375630774,
+      "long": 37.05482482910157,
+      "neighborhood": "Thika",
       "ambiance": "3/5",
       "flavor": "3/5",
       "comments": "I'm giving this place threes all around because I don't remember anything about it."
     },
     {
-      "name": "Zanzibar",
-      "lat": -1.0945,
-      "long": 37.0169,
-      "neighborhood": "Edgewater",
+      "name": "Metropolis Cafe", 
+      "lat": -1.1696193802230208,
+      "long": 37.08847045898438,
+      "neighborhood": "Juja",
+      "ambiance": "3/5",
+      "flavor": "2/5",
+      "comments": "Metropolis brand coffee is the pride of Chicago, apparently. I hate it. This place takes Wi-Fi away after like an hour, as well. So in addition to not having enjoyable coffee, it's not a good place to work. The ambiance is otherwise nice, but it's always overly crowded. Mexican hot cocoa is good."
+    },
+    {
+      "name": "Zanzibar", 
+      "lat": -1.1016548312793855,
+      "long": 37.0180892944336,
+      "neighborhood": "Juja",
       "ambiance": "2/5",
       "flavor": "2/5",
       "comments": "This place is always weird. I just avoid it."
     },
+        {
+      "name": "Ipsento",
+Lat: 
+      "lat": -1.1013115719664264,
+      "long": 37.064437866210945,
+      "neighborhood": "Juja",
+      "ambiance": "4/5",
+      "flavor": "5/5",
+      "comments": "Really great spicy latte. Nice ambiance but a bit small."
+    },
+    {
+      "name": "Wormhole",
+Lat: 
+      "lat": -1.0539414130094868,
+      "long": 36.84402465820313,
+      "neighborhood": "Gatundu",
+      "ambiance": "5/5",
+      "flavor": "4/5",
+      "comments": "Cute ambiance with a Nintendo that actually works properly and the best games (including FF1!). I don't actually remember what the coffee tastes like."
+    },
+
     {
       "name": "Kopi Travelers Cafe",
-      "lat": -1.0964,
-      "long": 37.0137,
-      "neighborhood": "Andersonville",
+Lat: 
+      "lat": -0.9859742824625283,
+      "long": 36.88247680664063,
+      "neighborhood": "Gatundu",
       "ambiance": "5/5",
       "flavor": "5/5",
       "comments": "Really great ambiance, with pillows and a shop for travelers, including all sorts of guidebooks and bangles. They also have beer and mixed drinks. Haven't gone here to work yet."
     },
     {
-      "name": "Oromo Cafe",
-      "lat": -1.0943,
-      "long": 37.0133,
-      "neighborhood": "Lincoln Square",
-      "ambiance": "4/5",
-      "flavor": "3/5",
-      "comments": "Nice little coffee shop in the heart of Lincoln Square. Not much food here."
-    },
-    {
-      "name": "La Colombe",
-      "lat": -1.0945,
-      "long": 37.0163,
-      "neighborhood": "Andersonville",
+      "name": "La Colombe", 
+Lat: 
+      "lat": -0.9976455072263136,
+      "long": 36.962814331054695,
+      "neighborhood": "Gatundu",
       "ambiance": "2/5",
       "flavor": "3/5",
       "comments": "This place gets packed. It's an alright location to do some work. "
